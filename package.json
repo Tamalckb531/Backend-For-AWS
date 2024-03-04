@@ -1,0 +1,14 @@
+{
+  "name": "backend-for-aws",
+  "version": "1.0.0",
+  "description": "First of my backend that is deployed in aws server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tamal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
